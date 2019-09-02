@@ -214,7 +214,7 @@ int main(int argc, char* argv[]){
 		doFind(T, arg1);
    		break;
 		case CMD_DELETE:
-		doDelete(arg1, T);
+		doDelete(arg1, &T);
 		break;
 		
             case CMD_UNK:
