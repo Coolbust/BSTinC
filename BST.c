@@ -1,7 +1,5 @@
 //Sidney Robinson
-//simrobin 1643731
-//CMPS12B/M
-//BST.C
+
 
 #include <stdio.h>
 #include <stdlib.h>
