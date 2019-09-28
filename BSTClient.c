@@ -1,6 +1,5 @@
  //Sidney Robinson
-//simrobin 1643731
-//CMPS12B/M
+
 //---------------------------------------------------------------------
 // BSTClient.c
 // Input oriented Test client for Binary Search Tree ADT
