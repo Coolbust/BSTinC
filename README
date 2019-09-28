@@ -1,8 +1,4 @@
 //Sidney Robinson
-//Simrobin 1643731
-//CMPS12B/M
-//Assignment 3
-//3/3/2019
 
 Objective: Creating a simple lexicographical binary search tree, that can be searched
 and operated upon with the BST client. Including a delete function.
