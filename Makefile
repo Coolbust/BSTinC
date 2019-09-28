@@ -1,6 +1,4 @@
 #Sidney Robinson
-#Simrobin 1643731
-#CMPS12B/M
 #Makefile for BST.h and BST.c with macros
 
 FLAGS = -std=c99 -Wall
