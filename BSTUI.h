@@ -1,4 +1,4 @@
-
+//Credit to Prof. Nina Bhati
 #define COMMAND_PROMPT "BST> "
 #define HELP_PROMPT "Enter \"help\" for description of each command\n" 
 #define HELP_MESSAGE \
